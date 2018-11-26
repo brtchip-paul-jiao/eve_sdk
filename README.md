@@ -4,24 +4,26 @@ It includes all the necessary resources for EVE based project development, such 
    
    * Basics   
        _Readme.txt_  
-	   Include   
+       Include   
        Source   
        SampleApp  
    * Demos   
-       Readme.txt  
+       _Readme.txt_  
        App_Lift  
        App_Gauge   
        ...  
    * Tools  
-       Readme.txt  
-       EVE Asset Builder  
-       EVE Screen Editor   
-       EVE Screen Designer  
+       _Readme.txt_  
+       _EVE Asset Builder_  
+       _EVE Screen Editor_   
+       _EVE Screen Designer_  
+       ... 
    * Documents  
-       Programming Guide for FT80X  
-       Programming Guide for FT81X  
-       Programming Guide for BT81X   
-       Data Sheet for FT80X  
-       Data Sheet for FT81X  
-       Data Sheet for BT81X  
+       _Programming Guide for FT80X_  
+       _Programming Guide for FT81X_  
+       _Programming Guide for BT81X_   
+       _Data Sheet for FT80X_  
+       _Data Sheet for FT81X_  
+       _Data Sheet for BT81X_  
+       ... 
        
